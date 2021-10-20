@@ -344,10 +344,17 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/VSSettingsProvider.ref.dll"
-"Assets/Scripts/HowToPlayButtonScript.cs"
-"Assets/Scripts/LevelOneButtonScript.cs"
-"Assets/Scripts/MainMenuButtonScript.cs"
-"Assets/Scripts/PlayButtonScript.cs"
+"Assets/Scripts/Bounds.cs"
+"Assets/Scripts/Bullets/BulletBehavior.cs"
+"Assets/Scripts/Bullets/BulletFactory.cs"
+"Assets/Scripts/Bullets/BulletManager.cs"
+"Assets/Scripts/Bullets/BulletType.cs"
+"Assets/Scripts/Buttons/HowToPlayButtonScript.cs"
+"Assets/Scripts/Buttons/LevelOneButtonScript.cs"
+"Assets/Scripts/Buttons/MainMenuButtonScript.cs"
+"Assets/Scripts/Buttons/PlayButtonScript.cs"
+"Assets/Scripts/DuckMainScript.cs"
+"Assets/Scripts/GameController.cs"
 -langversion:8.0
 
 /deterministic
