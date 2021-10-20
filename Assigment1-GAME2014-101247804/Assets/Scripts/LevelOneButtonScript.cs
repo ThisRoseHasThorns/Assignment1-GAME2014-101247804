@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class LevelOneButtonScript : MonoBehaviour
 {
-    public void OnLevelOneButtonPressed()
+    public void OnLevelOnesButtonPressed()
     {
         SceneManager.LoadScene("LevelOne");
     }
